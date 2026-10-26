@@ -1,48 +1,45 @@
+# HOSSEIN RAFIEI | Front-End Developer
 
-# HOSSEIN RAFIEI — Personal Portfolio
+A modern, responsive personal portfolio built with Next.js, TypeScript, and Tailwind CSS. Designed to showcase my skills, projects, and front-end development journey with a minimal dark UI and smooth animations.
 
-A modern and responsive portfolio showcasing my front-end development skills, selected projects, and passion for building interactive web experiences.
+## 🚀 Portfolio Preview
 
-## Preview
+### Hero
 
-<!-- Add a screenshot of your portfolio here -->
-<!-- Example: ![Portfolio Preview](./public/portfolio-preview.png) -->
+![Portfolio Hero](./public/hero.png)
 
-## About
+### About Me
 
-I'm a Front-End Developer focused on building clean, responsive, and engaging user interfaces with modern web technologies.
+![About Me Section](./public/aboutme.png)
 
-This portfolio brings together my projects, skills, and creative approach to web development through a minimal dark design with red accents and animated elements.
+### Contact
 
-## Tech Stack
+![Contact Section](./public/contact.png)
 
-- **Next.js**
-- **React**
-- **TypeScript**
-- **Tailwind CSS**
-- **GSAP**
-- **Lucide React**
-- **Git & GitHub**
+### Footer
 
-## Features
+![Portfolio Footer](./public/footer.png)
 
-- Responsive layout
-- Modern dark interface with red accents
-- Hero and About sections
-- Skills and technology showcase
-- Featured projects
-- Contact section
-- Scroll-based reveal animations
+## ✨ Features
+
+- Responsive design for desktop and mobile
+- Minimal dark theme with red accents
+- Hero, About, Skills, Projects, and Contact sections
+- Smooth scroll-reveal animations
 - Reusable React components
+- Modern UI built with Tailwind CSS
 
-## Getting Started
+## 🛠️ Tech Stack
 
-### Prerequisites
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- GSAP
+- Lucide React
+- Git & GitHub
 
-- Node.js
-- npm
-
-### Installation
+## 💻 Run Locally
 
 Clone the repository:
 
@@ -50,7 +47,7 @@ Clone the repository:
 git clone https://github.com/Hossein-Rafiei-dev/my-portfolio.git
 ```
 
-Move into the project directory:
+Navigate to the project directory:
 
 ```bash
 cd my-portfolio
@@ -62,7 +59,7 @@ Install dependencies:
 npm install
 ```
 
-Run the development server:
+Start the development server:
 
 ```bash
 npm run dev
@@ -70,19 +67,20 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Featured Project
+## 📂 Featured Project
 
 ### GAMERGEAR
 
-A gaming accessories store built with Next.js, React, and Tailwind CSS.
+A gaming accessories storefront built with Next.js and Tailwind CSS.
 
 [View GAMERGEAR on GitHub](https://github.com/Hossein-rafiee-esf/GAMERGEAR)
 
-## Contact
+## 📬 Contact
 
 - **GitHub:** [Hossein-Rafiei-dev](https://github.com/Hossein-Rafiei-dev)
 - **LinkedIn:** [Hossein Rafiei](https://www.linkedin.com/in/hossein-rafiei-53ab32419)
+- **Email:** hossein.rafiei.dev@gmail.com
 
 ---
 
-Designed and developed by **Hossein Rafiei**.
+*Built with passion for front-end development.*
