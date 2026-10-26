@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+# HOSSEIN RAFIEI | Personal Portfolio
+
+A modern, responsive personal portfolio built to showcase my front-end development skills, projects, and experience with modern web technologies.
+
+## Overview
+
+This portfolio represents my journey as a Front-End Developer, highlighting my projects, technical skills, and approach to building modern user interfaces.
+
+Designed with a minimal dark aesthetic, red accents, smooth animations, and a responsive layout.
+
+## Built With
+
+- **Next.js** — React framework
+- **React** — Component-based UI development
+- **TypeScript** — Type-safe development
+- **Tailwind CSS** — Utility-first styling
+- **GSAP** — Animation and interactive effects
+- **Lucide React** — Icons
+
+## Features
+
+- Responsive design for desktop, tablet, and mobile
+- Modern dark UI with red accent colors
+- Hero section introducing the developer
+- About section
+- Skills and technologies section
+- Projects showcase
+- Contact section
+- Scroll-based reveal animations
+- Reusable React components
+
+## Project Structure
+
+```text
+my-portfolio/
+├── public/
+│   ├── hero.png
+│   └── about.png
+├── src/
+│   └── app/
+│       ├── components/
+│       │   ├── Home/
+│       │   ├── About/
+│       │   ├── Skills/
+│       │   ├── Contact/
+│       │   └── Reveal/
+│       ├── page.tsx
+│       └── ...
+├── package.json
+└── README.md
+```
+
+> The directory structure above is illustrative. Adjust it to match the actual project structure.
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Node.js
+- npm
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone the repository:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   ```
 
-## Learn More
+2. Navigate to the project directory:
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   cd my-portfolio
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Install dependencies:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+   ```bash
+   npm install
+   ```
 
-## Deploy on Vercel
+4. Start the development server:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Available Scripts
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Start the development server |
+| `npm run build` | Build the production application |
+| `npm run start` | Start the production server |
+| `npm run lint` | Run the configured lint checks |
+
+## Project Goals
+
+- Build a professional online presence
+- Practice modern React and Next.js development
+- Improve component architecture and responsive UI development
+- Explore animation and interactive web experiences
+- Showcase projects for future opportunities
+
+## Connect With Me
+
+- **GitHub:** [Hossein-rafiee-esf](https://github.com/Hossein-rafiee-esf)
+- **LinkedIn:** [Hossein Rafiei](https://www.linkedin.com/in/hossein-rafiei-53ab32419)
+
+---
+
+Built with curiosity, creativity, and a passion for front-end development.
