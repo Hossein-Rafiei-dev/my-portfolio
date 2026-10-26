@@ -10,8 +10,7 @@ A modern, responsive personal portfolio built with Next.js, TypeScript, and Tail
 
 ### About Me
 
-![About Me Section](./public/aboutme.png)
-
+![About Me Section](./public/aboume.png)
 ### Contact
 
 ![Contact Section](./public/contact.png)
