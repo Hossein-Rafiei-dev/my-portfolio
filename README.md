@@ -1,57 +1,39 @@
 
-# HOSSEIN RAFIEI | Personal Portfolio
+# HOSSEIN RAFIEI — Personal Portfolio
 
-A modern, responsive personal portfolio built to showcase my front-end development skills, projects, and experience with modern web technologies.
+A modern and responsive portfolio showcasing my front-end development skills, selected projects, and passion for building interactive web experiences.
 
-## Overview
+## Preview
 
-This portfolio represents my journey as a Front-End Developer, highlighting my projects, technical skills, and approach to building modern user interfaces.
+<!-- Add a screenshot of your portfolio here -->
+<!-- Example: ![Portfolio Preview](./public/portfolio-preview.png) -->
 
-Designed with a minimal dark aesthetic, red accents, smooth animations, and a responsive layout.
+## About
 
-## Built With
+I'm a Front-End Developer focused on building clean, responsive, and engaging user interfaces with modern web technologies.
 
-- **Next.js** — React framework
-- **React** — Component-based UI development
-- **TypeScript** — Type-safe development
-- **Tailwind CSS** — Utility-first styling
-- **GSAP** — Animation and interactive effects
-- **Lucide React** — Icons
+This portfolio brings together my projects, skills, and creative approach to web development through a minimal dark design with red accents and animated elements.
+
+## Tech Stack
+
+- **Next.js**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **GSAP**
+- **Lucide React**
+- **Git & GitHub**
 
 ## Features
 
-- Responsive design for desktop, tablet, and mobile
-- Modern dark UI with red accent colors
-- Hero section introducing the developer
-- About section
-- Skills and technologies section
-- Projects showcase
+- Responsive layout
+- Modern dark interface with red accents
+- Hero and About sections
+- Skills and technology showcase
+- Featured projects
 - Contact section
 - Scroll-based reveal animations
 - Reusable React components
-
-## Project Structure
-
-```text
-my-portfolio/
-├── public/
-│   ├── hero.png
-│   └── about.png
-├── src/
-│   └── app/
-│       ├── components/
-│       │   ├── Home/
-│       │   ├── About/
-│       │   ├── Skills/
-│       │   ├── Contact/
-│       │   └── Reveal/
-│       ├── page.tsx
-│       └── ...
-├── package.json
-└── README.md
-```
-
-> The directory structure above is illustrative. Adjust it to match the actual project structure.
 
 ## Getting Started
 
@@ -62,54 +44,45 @@ my-portfolio/
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
 
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
+```bash
+git clone https://github.com/Hossein-Rafiei-dev/my-portfolio.git
+```
 
-2. Navigate to the project directory:
+Move into the project directory:
 
-   ```bash
-   cd my-portfolio
-   ```
+```bash
+cd my-portfolio
+```
 
-3. Install dependencies:
+Install dependencies:
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
-4. Start the development server:
+Run the development server:
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Available Scripts
+## Featured Project
 
-| Command | Description |
-| --- | --- |
-| `npm run dev` | Start the development server |
-| `npm run build` | Build the production application |
-| `npm run start` | Start the production server |
-| `npm run lint` | Run the configured lint checks |
+### GAMERGEAR
 
-## Project Goals
+A gaming accessories store built with Next.js, React, and Tailwind CSS.
 
-- Build a professional online presence
-- Practice modern React and Next.js development
-- Improve component architecture and responsive UI development
-- Explore animation and interactive web experiences
-- Showcase projects for future opportunities
+[View GAMERGEAR on GitHub](https://github.com/Hossein-rafiee-esf/GAMERGEAR)
 
-## Connect With Me
+## Contact
 
-- **GitHub:** [Hossein-rafiee-esf](https://github.com/Hossein-rafiee-esf)
+- **GitHub:** [Hossein-Rafiei-dev](https://github.com/Hossein-Rafiei-dev)
 - **LinkedIn:** [Hossein Rafiei](https://www.linkedin.com/in/hossein-rafiei-53ab32419)
 
 ---
 
-Built with curiosity, creativity, and a passion for front-end development.
+Designed and developed by **Hossein Rafiei**.
